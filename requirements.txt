@@ -1,0 +1,5 @@
+# 运行实验的核心依赖
+# 注意：MindSpore 在 Windows 上不支持 Python 3.13，请使用 Python 3.12
+mindspore==2.10.0
+numpy==1.26.4
+scipy==1.14.1
